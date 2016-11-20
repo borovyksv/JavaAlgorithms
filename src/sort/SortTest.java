@@ -12,8 +12,9 @@ import static org.junit.Assert.fail;
 public class SortTest {
 
     private final static int SIZE = 7;
-    private final static int MAX = 20;
+    private final static int MAX = 21;
     private int[] numbers;
+
 
 
     @Before
